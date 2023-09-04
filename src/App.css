@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #586e75;
+  min-height: 20;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  ;
+  font-size: calc(10px + 2vmin);
+  color: rgb(0, 0, 0);
+}
+
+.App-tile {
+  background-color: #567b83;
+  max-width: 80%;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.Background {
+  background-color: 073642;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
